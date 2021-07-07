@@ -1,14 +1,44 @@
 #mainscreen {
-height: 500px;
-background-color:#3f424d;
-padding-top: 80px;
+height:  100vh;
+background-color: white;
+}
+
+.header-box {
+display:  flex;
+background-color: #555863;
+height: 300px;
+justify-content: center;
+
+}
+
+.profile-picture {
+height: 70px;
+width:  70px;
+border-radius: 50%;
+background-color:  blue;
+display: block;
+margin:  0 auto;
+
 
 }
 
 
+
+
 h1 {
 color: white;
-font-size:  30px;
+font-size:  36px;
+font-family: Arial;
+text-align: center;
+display: block;
+margin: 0 auto;
+
+
+}
+
+h3 {
+color: white;
+font-size:  16px;
 font-family: Arial;
 text-align: center;
 display: block;
