@@ -172,8 +172,8 @@ grid-template-columns: 1;
 grid-template-rows: repeat(2, 1fr);
 background-color: #EFEFEF;
 align-items: center;
-gap: 10px;
-padding-bottom: 10px;
+gap: 20px;
+padding-bottom: 30px;
 }
 
 .workingon-header {
@@ -539,8 +539,8 @@ grid-template-rows: repeat(4, 1fr);
 background-color: #EFEFEF;
 align-items: center;
 justify-content: center;
-gap: 10px;
-padding-bottom: 10px;
+gap: 30px;
+padding-bottom: 30px;
 }
 
 
