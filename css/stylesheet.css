@@ -173,7 +173,7 @@ grid-template-rows: repeat(6, 1fr);
 background-color: #EFEFEF;
 align-items: center;
 gap: 20px;
-padding-bottom: 80px;
+padding-bottom: 30px;
 }
 
 .workingon-header {
@@ -403,7 +403,7 @@ background-color: #EFEFEF;
 align-items: center;
 justify-content: center;
 gap: 20px;
-padding-bottom: 60px;
+padding-bottom: 20px;
 }
 
 .workingon-header {
@@ -540,7 +540,7 @@ background-color: #EFEFEF;
 align-items: center;
 justify-content: center;
 gap: 20px;
-padding-bottom: 60px;
+padding-bottom: 30px;
 }
 
 
