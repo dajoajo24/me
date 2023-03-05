@@ -108,7 +108,7 @@ color: 	#1DB954;
 
 .whatido {
 display: grid;
-height: 1700px;
+height: 1300px;
 grid-template-columns: 1;
 grid-template-rows: repeat(5, 1fr);
 background-color: white;
@@ -166,7 +166,7 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 
 
 .workingon {
-height: 800px;
+height: 700px;
 display: grid;
 grid-template-columns: 1;
 grid-template-rows: repeat(2, 1fr);
