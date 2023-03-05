@@ -297,7 +297,7 @@ line-height: 22px;
 @media (min-width: 800px) {
 .whatido {
 display: grid;
-height: 800px;
+height: 1000px;
 grid-template-columns: 2;
 grid-template-rows: repeat(3, 1fr);
 background-color: white;
