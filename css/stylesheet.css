@@ -144,7 +144,7 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
 
-.aequitas {
+.directagents {
 grid-row: 4;
 background-color: #CAEBF2;
 margin: 10px;
@@ -153,15 +153,13 @@ padding: 10px;
 box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
-.up2code {
+.generalidea {
 grid-row: 5;
 background-color: #CAEBF2;
 margin: 10px;
 border-radius: 10px;
 padding: 10px;
 box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-
-
 
 }
 
