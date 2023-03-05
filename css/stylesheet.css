@@ -354,10 +354,10 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
 .workingon {
-height: 800px;
+height: 600px;
 display: grid;
 grid-template-columns: 2;
-grid-template-rows: repeat(2, 1fr);
+grid-template-rows: repeat(3, 1fr);
 background-color: #EFEFEF;
 align-items: center;
 justify-content: center;
@@ -403,7 +403,7 @@ box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
 
 .square2 {
 grid-row: 2;
-grid-column: 3/4;
+grid-column: 2/3;
 background-color: #CAEBF2;
 padding: 10px;
 margin: 20px;
@@ -427,7 +427,7 @@ box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
 
 #workingon-text{
 grid-row: 3;
-grid-column: 1/4;
+grid-column: 1/2;
 padding: 10px;
 margin: 20px;
 background-color: white;
