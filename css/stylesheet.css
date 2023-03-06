@@ -4,7 +4,7 @@ min-height: -webkit-fill-available;
 }
 
 .header-box {
-background-color: #EFEFEF;
+background-color: #d6d4ba;
 height: 400px;
 justify-content: center;
 align-items: center;
@@ -135,7 +135,7 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 
 .directagents {
 grid-row: 4;
-background-color: #CAEBF2;
+background-color: #d6d4ba
 margin: 10px;
 border-radius: 10px;
 padding: 10px;
@@ -144,7 +144,7 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 
 .generalidea {
 grid-row: 3;
-background-color: #CAEBF2;
+background-color: #d6d4ba;
 margin: 10px;
 border-radius: 10px;
 padding: 10px;
@@ -154,7 +154,7 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 
 .movableink {
 grid-row: 5;
-background-color: #CAEBF2;
+background-color: #d6d4ba;
 margin: 10px;
 border-radius: 10px;
 padding: 10px;
@@ -178,7 +178,7 @@ padding-bottom: 30px;
 
 .workingon-header {
 grid-row: 1;
-background-color: #EFEFEF;
+background-color: #d6d4ba
 
 
 }
@@ -195,7 +195,7 @@ border-radius: 10px;
 }
 
 .insidesquare1 {
-background-color: white;
+background-color: #d6d4ba;
 margin: 20px;
 padding: 20px;
 border-radius: 10px;
@@ -221,7 +221,7 @@ display: flex;
 }
 
 .insidesquare2 {
-background-color: white;
+background-color: #d6d4ba;
 margin: 20px;
 padding: 20px;
 border-radius: 10px;
@@ -347,7 +347,7 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 .movableink {
 grid-row: 3;
 grid-column: 1/4;
-background-color: #CAEBF2;
+background-color: #d6d4ba;
 border-radius: 5px;
 box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 
@@ -386,7 +386,7 @@ border-radius: 5px;
 }
 
 .insidesquare1 {
-background-color: white;
+background-color: #d6d4ba;
 margin: 20px;
 padding: 20px;
 border-radius: 10px;
@@ -413,7 +413,7 @@ display: flex;
 }
 
 .insidesquare2 {
-background-color: white;
+background-color: #d6d4ba;
 margin: 20px;
 padding: 20px;
 border-radius: 10px;
@@ -452,7 +452,7 @@ height: 700px;
 display: grid;
 grid-template-columns: 2;
 grid-template-rows: repeat(2, 1fr);
-background-color: #EFEFEF;
+background-color: #d6d4ba;
 align-items: center;
 justify-content: center;
 gap: 30px;
