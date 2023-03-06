@@ -128,7 +128,8 @@ grid-row: 1;
 grid-row: 2;
 background-color: #cfccba;
 margin: 10px;
-
+border-width: 2px;
+border-color: #FF3B3F;
 padding: 10px;
 box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
@@ -137,7 +138,8 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 grid-row: 4;
 background-color: #cfccba;
 margin: 10px;
-
+border-width: 2px;
+border-color: #FF3B3F;
 padding: 10px;
 box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
@@ -146,7 +148,8 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 grid-row: 3;
 background-color: #cfccba;
 margin: 10px;
-
+border-width: 2px;
+border-color: #FF3B3F;
 padding: 10px;
 box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 
@@ -156,7 +159,8 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 grid-row: 5;
 background-color: #cfccba;
 margin: 10px;
-
+border-width: 2px;
+border-color: #FF3B3F;
 padding: 10px;
 box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 
@@ -190,6 +194,8 @@ background-color:  #cfccba;
 padding: 10px;
 margin: 20px;
 display: flex;
+border-width: 2px;
+border-color: #FF3B3F;
 
 
 }
@@ -215,7 +221,8 @@ grid-row: 3;
 background-color: #cfccba;
 padding: 10px;
 margin: 20px;
-
+border-width: 2px;
+border-color: #FF3B3F;
 display: flex;
 
 }
@@ -330,7 +337,8 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 grid-row: 2;
 grid-column: 2/3;
 background-color: #cfccba;
-
+border-width: 2px;
+border-color: #FF3B3F;
 box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
@@ -338,7 +346,8 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 grid-row: 2;
 grid-column: 1/2;
 background-color: #cfccba;
-
+border-width: 2px;
+border-color: #FF3B3F;
 box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 
 }
@@ -347,7 +356,8 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 grid-row: 3;
 grid-column: 1/4;
 background-color: #cfccba;
-
+border-width: 2px;
+border-color: #FF3B3F;
 box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 
 }
@@ -380,7 +390,8 @@ background-color:  #cfccba;
 padding: 10px;
 margin: 20px;
 display: flex;
-
+border-width: 2px;
+border-color: #FF3B3F;
 
 }
 
@@ -406,7 +417,8 @@ grid-column: 1/2;
 background-color: #cfccba;
 padding: 10px;
 margin: 20px;
-
+border-width: 2px;
+border-color: #FF3B3F;
 display: flex;
 
 }
