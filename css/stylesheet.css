@@ -198,8 +198,7 @@ background-color:  #cfccba;
 padding: 10px;
 margin: 20px;
 display: flex;
-border-width: 2px;
-border-color: #FF3B3F;
+
 
 
 }
@@ -228,8 +227,7 @@ background-color: #cfccba;
 padding: 10px;
 margin: 20px;
 
-border-width: 2px;
-border-color: #FF3B3F;
+
 display: flex;
 
 }
@@ -254,6 +252,9 @@ grid-row: 4;
 padding: 10px;
 margin: 20px;
 background-color: #cfccba;
+border-style: solid;
+border-width: 2px;
+border-color: #FF3B3F;
 
 box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
@@ -402,8 +403,7 @@ background-color:  #cfccba;
 padding: 10px;
 margin: 20px;
 display: flex;
-border-width: 2px;
-border-color: #FF3B3F;
+
 
 }
 
@@ -431,8 +431,7 @@ grid-column: 1/2;
 background-color: #cfccba;
 padding: 10px;
 margin: 20px;
-border-width: 2px;
-border-color: #FF3B3F;
+
 display: flex;
 
 }
@@ -458,7 +457,9 @@ grid-column: 2/3;
 padding: 10px;
 margin: 20px;
 background-color: #cfccba;
-
+border-style: solid;
+border-width: 2px;
+border-color: #FF3B3F;
 box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
