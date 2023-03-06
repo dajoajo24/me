@@ -1,5 +1,5 @@
 #mainscreen {
-min-height: 1600px;
+min-height: 2200px;
 
 }
 
@@ -296,7 +296,7 @@ line-height: 22px;
 @media (min-width: 800px) {
 .whatido {
 display: grid;
-height: 1600px;
+height: 1900px;
 grid-template-columns: 2;
 grid-template-rows: repeat(3, 1fr);
 background-color: #cfccba;
@@ -447,7 +447,7 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 
 @media (min-width:  640) {
 .workingon {
-height: 1000px;
+height: 1300px;
 display: grid;
 grid-template-columns: 2;
 grid-template-rows: repeat(2, 1fr);
