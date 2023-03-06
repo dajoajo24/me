@@ -204,7 +204,8 @@ border-color: #FF3B3F;
 background-color: #cfccba;
 margin: 20px;
 padding: 20px;
-
+border-width: 2px;
+border-color: #FF3B3F;
 box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
 
 
@@ -231,7 +232,8 @@ display: flex;
 background-color: #cfccba;
 margin: 20px;
 padding: 20px;
-
+border-width: 2px;
+border-color: #FF3B3F;
 box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
 
 
@@ -399,7 +401,8 @@ border-color: #FF3B3F;
 background-color: #cfccba;
 margin: 20px;
 padding: 20px;
-
+border-width: 2px;
+border-color: #FF3B3F;
 box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
 
 
@@ -427,7 +430,8 @@ display: flex;
 background-color: #cfccba;
 margin: 20px;
 padding: 20px;
-
+border-width: 2px;
+border-color: #FF3B3F;
 box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
 
 
