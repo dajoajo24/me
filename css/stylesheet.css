@@ -1,9 +1,10 @@
 
 
+
 #mainscreen {
 
 background-color: #cfccba;
-height: 100vh;
+
 }
 
 .header-box {
@@ -316,7 +317,7 @@ line-height: 22px;
 @media (min-width: 800px) {
 .whatido {
 display: grid;
-height: 1900px;
+height: 2900px;
 grid-template-columns: 2;
 grid-template-rows: repeat(5, 1fr);
 background-color: #cfccba;
@@ -380,6 +381,8 @@ border-color: #FF3B3F;
 box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 
 }
+
+
 
 .workingon {
 height: 600px;
