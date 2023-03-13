@@ -9,7 +9,7 @@ background-color: #cfccba;
 
 .header-box {
 background-color: #cfccba;
-height: 400px;
+height: 300px;
 justify-content: center;
 align-items: center;
 padding-top: 30px;
@@ -314,6 +314,11 @@ line-height: 22px;
 
 
 
+
+
+
+
+
 @media (min-width: 800px) {
 .whatido {
 display: grid;
@@ -328,8 +333,7 @@ padding-bottom: 60px;
 
 .whatido-header {
 grid-row: 1;
-grid-column:1/4;
-
+grid-column:1/2;
 
 
 
@@ -338,7 +342,7 @@ grid-column:1/4;
 
 .education {
 grid-row: 2;
-grid-column: 1/4;
+grid-column: 1/2;
 background-color: #cfccba;
 
 
@@ -350,7 +354,7 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 
 .generalidea {
 grid-row: 3;
-grid-column: 1/4;
+grid-column: 1/2;
 background-color: #cfccba;
 border-style: solid;
 border-width: 2px;
@@ -362,7 +366,7 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 
 .directagents {
 grid-row: 4;
-grid-column: 1/4;
+grid-column: 1/2;
 background-color: #cfccba;
 border-style: solid;
 border-width: 2px;
@@ -373,7 +377,7 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 
 .movableink {
 grid-row: 5;
-grid-column: 1/4;
+grid-column: 1/2;
 background-color: #cfccba;
 border-style: solid;
 border-width: 2px;
@@ -381,6 +385,7 @@ border-color: #FF3B3F;
 box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 
 }
+
 
 
 
@@ -462,7 +467,7 @@ box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
 
 #workingon-text{
 grid-row: 3;
-grid-column: 2/3;
+grid-column: 1/2;
 padding: 10px;
 margin: 20px;
 background-color: #cfccba;
