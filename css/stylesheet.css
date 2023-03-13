@@ -318,7 +318,7 @@ line-height: 22px;
 display: grid;
 height: 1900px;
 grid-template-columns: 2;
-grid-template-rows: repeat(3, 1fr);
+grid-template-rows: repeat(5, 1fr);
 background-color: #cfccba;
 align-items: center;
 padding-bottom: 60px;
@@ -327,7 +327,7 @@ padding-bottom: 60px;
 
 .whatido-header {
 grid-row: 1;
-grid-column: 2/3;
+grid-column:1/4;
 
 
 
@@ -337,18 +337,31 @@ grid-column: 2/3;
 
 .education {
 grid-row: 2;
-grid-column: 1/2;
+grid-column: 1/4;
 background-color: #cfccba;
 
 
 
 box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+
+
+.generalidea {
+grid-row: 3;
+grid-column: 1/4;
+background-color: #cfccba;
+border-style: solid;
+border-width: 2px;
+border-color: #FF3B3F;
+box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
 }
 
 
 .directagents {
-grid-row: 2;
-grid-column: 2/3;
+grid-row: 4;
+grid-column: 1/4;
 background-color: #cfccba;
 border-style: solid;
 border-width: 2px;
@@ -356,19 +369,9 @@ border-color: #FF3B3F;
 box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
-.generalidea {
-grid-row: 2;
-grid-column: 1/2;
-background-color: #cfccba;
-border-style: solid;
-border-width: 2px;
-border-color: #FF3B3F;
-box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-
-}
 
 .movableink {
-grid-row: 3;
+grid-row: 5;
 grid-column: 1/4;
 background-color: #cfccba;
 border-style: solid;
