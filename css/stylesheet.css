@@ -221,7 +221,6 @@ padding: 20px;
 border-style: solid;
 border-width: 2px;
 border-color: #FF3B3F;
-box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
 
 
 }
@@ -237,8 +236,6 @@ grid-row: 3;
 background-color: #cfccba;
 padding: 10px;
 margin: 20px;
-
-
 display: flex;
 
 }
@@ -250,7 +247,7 @@ padding: 20px;
 border-style: solid;
 border-width: 2px;
 border-color: #FF3B3F;
-box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+
 
 
 
@@ -324,7 +321,7 @@ line-height: 22px;
 @media (min-width: 800px) {
 .whatido {
 display: grid;
-height: 1900px;
+height: 1100px;
 grid-template-columns: 2;
 grid-template-rows: repeat(4, 1fr);
 background-color: #cfccba;
