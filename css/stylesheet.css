@@ -3,7 +3,7 @@
 #mainscreen {
 
 background-color: #cfccba;
-height: 100vh;
+
 }
 
 .header-box {
@@ -138,16 +138,6 @@ padding: 10px;
 box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
-.directagents {
-grid-row: 4;
-background-color: #cfccba;
-margin: 10px;
-border-style: solid;
-border-width: 2px;
-border-color: #FF3B3F;
-padding: 10px;
-box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-}
 
 .generalidea {
 grid-row: 3;
@@ -160,6 +150,20 @@ padding: 10px;
 box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 
 }
+
+
+
+.directagents {
+grid-row: 4;
+background-color: #cfccba;
+margin: 10px;
+border-style: solid;
+border-width: 2px;
+border-color: #FF3B3F;
+padding: 10px;
+box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
 
 .movableink {
 grid-row: 5;
@@ -186,6 +190,7 @@ align-items: center;
 gap: 20px;
 padding-bottom: 30px;
 }
+
 
 .workingon-header {
 grid-row: 1;
@@ -475,13 +480,13 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 
 
 
-
-
-
-
-
-
 }
+
+
+
+
+
+
 
 @media (min-width:  640) {
 .workingon {
