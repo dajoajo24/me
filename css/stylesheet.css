@@ -162,7 +162,10 @@ border-width: 2px;
 border-color: #FF3B3F;
 padding: 10px;
 box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
 }
+
+
 
 
 .movableink {
@@ -341,8 +344,10 @@ grid-column:1/4;
 }
 
 .education {
+
 grid-row: 2;
 grid-column: 1/4;
+
 background-color: #cfccba;
 
 
