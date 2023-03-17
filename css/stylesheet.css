@@ -254,7 +254,7 @@ border-color: #FF3B3F;
 }
 
 .square3 {
-grid-row: 3;
+grid-row: 4;
 background-color: #cfccba;
 padding: 10px;
 margin: 20px;
@@ -415,7 +415,7 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 height: 800px;
 display: grid;
 grid-template-columns: 2;
-grid-template-rows: repeat(3, 1fr);
+grid-template-rows: repeat(4, 1fr);
 background-color: #cfccba;
 align-items: center;
 justify-content: center;
@@ -485,6 +485,30 @@ box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
 
 }
 
+
+.square3 {
+grid-row: 4;
+grid-column: 1/2;
+background-color: #cfccba;
+padding: 10px;
+margin: 20px;
+
+display: flex;
+
+}
+
+.insidesquare3 {
+background-color: #cfccba;
+margin: 20px;
+padding: 20px;
+border-style: solid;
+border-width: 2px;
+border-color: #FF3B3F;
+box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+
+
+
+}
 
 
 #workingon-text{
