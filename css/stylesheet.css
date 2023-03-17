@@ -343,9 +343,10 @@ line-height: 22px;
 
 
 @media (min-width: 800px) {
+
 .whatido {
 display: grid;
-height: 800px;
+height: 1400px;
 grid-template-columns: 2;
 grid-template-rows: repeat(4, 1fr);
 background-color: #cfccba;
@@ -416,7 +417,7 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 
 
 .workingon {
-height: 800px;
+height: 1400px;
 display: grid;
 grid-template-columns: 2;
 grid-template-rows: repeat(5, 1fr);
