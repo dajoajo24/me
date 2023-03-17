@@ -253,7 +253,7 @@ border-color: #FF3B3F;
 
 }
 
-.square2 {
+.square3 {
 grid-row: 3;
 background-color: #cfccba;
 padding: 10px;
@@ -262,7 +262,7 @@ display: flex;
 
 }
 
-.insidesquare2 {
+.insidesquare3 {
 background-color: #cfccba;
 margin: 20px;
 padding: 20px;
