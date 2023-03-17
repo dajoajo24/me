@@ -253,6 +253,26 @@ border-color: #FF3B3F;
 
 }
 
+.square2 {
+grid-row: 3;
+background-color: #cfccba;
+padding: 10px;
+margin: 20px;
+display: flex;
+
+}
+
+.insidesquare2 {
+background-color: #cfccba;
+margin: 20px;
+padding: 20px;
+border-style: solid;
+border-width: 2px;
+border-color: #FF3B3F;
+
+
+}
+
 
 
 #workingon-text{
