@@ -414,7 +414,7 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 
 .workingon {
 height: 1200px;
-display: grid;
+display: flex;
 grid-template-columns: 1;
 grid-template-rows: repeat(5, 1fr);
 background-color: #cfccba;
