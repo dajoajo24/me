@@ -413,9 +413,9 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 
 
 .workingon {
-height: 1000px;
+height: 1200px;
 display: grid;
-grid-template-columns: 2;
+grid-template-columns: 1;
 grid-template-rows: repeat(5, 1fr);
 background-color: #cfccba;
 align-items: center;
