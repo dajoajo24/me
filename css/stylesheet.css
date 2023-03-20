@@ -415,8 +415,8 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 .workingon {
 height: 1200px;
 display: grid;
-grid-template-columns: 1;
-grid-template-rows: repeat(5, 1fr);
+grid-template-columns: 2;
+grid-template-rows: repeat(3, 1fr);
 background-color: #cfccba;
 align-items: center;
 justify-content: center;
@@ -434,7 +434,7 @@ background-color: #cfccba;
 
 .square1 {
 grid-row: 2;
-grid-column: 1/4;
+grid-column: 1/2;
 background-color:  #cfccba;
 padding: 10px;
 margin: 20px;
@@ -450,7 +450,7 @@ padding: 20px;
 border-style: solid;
 border-width: 2px;
 border-color: #FF3B3F;
-box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+
 
 
 }
@@ -462,8 +462,8 @@ box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
 
 
 .square2 {
-grid-row: 3;
-grid-column: 1/4;
+grid-row: 2;
+grid-column: 2/3;
 background-color: #cfccba;
 padding: 10px;
 margin: 20px;
@@ -479,7 +479,6 @@ padding: 20px;
 border-style: solid;
 border-width: 2px;
 border-color: #FF3B3F;
-box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
 
 
 
@@ -487,8 +486,8 @@ box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
 
 
 .square3 {
-grid-row: 4;
-grid-column: 1/4;
+grid-row: 3;
+grid-column: 1/2;
 background-color: #cfccba;
 padding: 10px;
 margin: 20px;
@@ -504,7 +503,7 @@ padding: 20px;
 border-style: solid;
 border-width: 2px;
 border-color: #FF3B3F;
-box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+
 
 
 
@@ -512,8 +511,8 @@ box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
 
 
 #workingon-text{
-grid-row: 5;
-grid-column: 1/4;
+grid-row: 3;
+grid-column: 2/3;
 padding: 10px;
 margin: 20px;
 background-color: #cfccba;
