@@ -209,8 +209,8 @@ border-color: #FF3B3F;
 
 
 .square2 {
-grid-row: 3;
-grid-column: 1/2;
+grid-row: 2;
+grid-column: 2/2;
 background-color: #cfccba;
 padding: 10px;
 margin: 20px;
@@ -232,7 +232,7 @@ border-color: #FF3B3F;
 }
 
 .square3 {
-grid-row: 4;
+grid-row: 3;
 grid-column: 1/2;
 background-color: #cfccba;
 padding: 10px;
@@ -251,6 +251,50 @@ border-color: #FF3B3F;
 
 
 }
+
+.square4 {
+grid-row: 3;
+grid-column: 2/2;
+background-color: #cfccba;
+padding: 10px;
+margin: 20px;
+display: flex;
+
+}
+
+.insidesquare4 {
+background-color: #cfccba;
+margin: 20px;
+padding: 20px;
+border-style: solid;
+border-width: 2px;
+border-color: #FF3B3F;
+
+
+}
+
+
+.square5 {
+grid-row: 4;
+grid-column: 1/2;
+background-color: #cfccba;
+padding: 10px;
+margin: 20px;
+display: flex;
+
+}
+
+.insidesquare5 {
+background-color: #cfccba;
+margin: 20px;
+padding: 20px;
+border-style: solid;
+border-width: 2px;
+border-color: #FF3B3F;
+
+
+}
+
 
 
 
@@ -390,8 +434,8 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 .workingon {
 height: 800px;
 display: grid;
-grid-template-columns: 2;
-grid-template-rows: repeat(4, 1fr);
+grid-template-columns: 1;
+grid-template-rows: repeat(6, 1fr);
 background-color: #cfccba;
 align-items: center;
 justify-content: center;
@@ -431,8 +475,8 @@ border-color: #FF3B3F;
 
 
 .square2 {
-grid-row: 1;
-grid-column: 2/3;
+grid-row: 2;
+grid-column: 1/2;
 background-color: #cfccba;
 padding: 10px;
 margin: 20px;
@@ -455,7 +499,7 @@ border-color: #FF3B3F;
 
 
 .square3 {
-grid-row: 2;
+grid-row: 3;
 grid-column: 1/2;
 background-color: #cfccba;
 padding: 10px;
@@ -474,14 +518,56 @@ border-width: 2px;
 border-color: #FF3B3F;
 
 
+}
+
+.square4 {
+grid-row: 4;
+grid-column: 1/2;
+background-color: #cfccba;
+padding: 10px;
+margin: 20px;
+
+display: flex;
+
+}
+
+.insidesquare4 {
+background-color: #cfccba;
+margin: 20px;
+padding: 20px;
+border-style: solid;
+border-width: 2px;
+border-color: #FF3B3F;
+
+
+}
+
+.square5 {
+grid-row: 5;
+grid-column: 1/2;
+background-color: #cfccba;
+padding: 10px;
+margin: 20px;
+
+display: flex;
+
+}
+
+.insidesquare5 {
+background-color: #cfccba;
+margin: 20px;
+padding: 20px;
+border-style: solid;
+border-width: 2px;
+border-color: #FF3B3F;
 
 
 }
 
 
 #workingon-text{
-grid-row: 2;
-grid-column: 2/3;
+grid-row: 6;
+grid-column: 1/2;
 padding: 10px;
 margin: 20px;
 border-style: solid;
